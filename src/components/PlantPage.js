@@ -12,9 +12,13 @@ function PlantPage() {
       .then((data) => setPlants(data))
   }, [])
 
+  const addNewPlant = (newPlant) => {
+    setPlants([...plants, newPlant])
+  }
+
   return (
     <main>
-      <NewPlantForm />
+      <NewPlantForm addNewPlant={addNewPlant}/>
       <Search />
       <PlantList plants={plants}/>
     </main>
