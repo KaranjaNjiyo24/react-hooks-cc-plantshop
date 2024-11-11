@@ -41,6 +41,174 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 11
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 14
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 16
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 17
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 18
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 19
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 20
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 21
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 22
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 23
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 24
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 25
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 26
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 27
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 28
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 29
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 30
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 31
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 32
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 33
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 34
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 35
     }
   ]
 }
