@@ -1,6 +1,29 @@
-import React from "react";
+import React, { useState } from "react";
 
-function NewPlantForm() {
+function NewPlantForm({ addNewPlant}) {
+  const [formData, setFormData] = useState({
+    name:"",
+    image:"",
+    price:"",
+  })
+
+  const handleChange = (e) => {
+    setFormData({
+      ...formData,
+      [e.target.name]: e.target.value,
+    })
+  } 
+
+  const handleSubmit = (e) => {
+    e.preventDefault()
+
+    const newPlant = {
+      name: formData.name,
+      image: formData.image,
+      price: formData.price,
+    }
+
+  }
   return (
     <div className="new-plant-form">
       <h2>New Plant</h2>
